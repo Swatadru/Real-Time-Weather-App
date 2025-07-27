@@ -26,23 +26,19 @@ A real-time weather web application that fetches and displays current weather co
 2. Get your free API key from OpenWeatherMap
 
 3. Open the JavaScript file and replace:
-
-js
-Copy
-Edit
-const apiKey = 'YOUR_API_KEY';
+   ```bash
+   const apiKey = 'YOUR_API_KEY';
 with your actual API key.
 
-Open index.html in your browser or use a live server.
+4. Open index.html in your browser or use a live server.
 
 🌐 Live Demo
 You can view the live version of this project here:
 👉 https://swatadru.github.io/Real-Time-Weather-App/
 
 📸 Screenshots
-Desktop View	Mobile View
+<img width="951" height="936" alt="Screenshot 2025-07-27 211316" src="https://github.com/user-attachments/assets/4dc0c592-03e4-4285-9501-a82712a8def7" />
 
-You can add your own screenshots to the screenshots/ folder and update the image paths above.
 
 📝 License
 This project is licensed under the MIT License. See the LICENSE file for details.
