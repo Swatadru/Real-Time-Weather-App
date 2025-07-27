@@ -37,7 +37,7 @@ You can view the live version of this project here:
 👉 https://swatadru.github.io/Real-Time-Weather-App/
 
 ## 📸 Screenshots
-<img width="725" height="936" align-items='center' alt="Screenshot 2025-07-27 211316" src="https://github.com/user-attachments/assets/4dc0c592-03e4-4285-9501-a82712a8def7" />
+<img width="725" height="936" justify-content='center' alt="Screenshot 2025-07-27 211316" src="https://github.com/user-attachments/assets/4dc0c592-03e4-4285-9501-a82712a8def7" />
 <img width="725" height="815" alt="Screenshot 2025-07-27 211616" src="https://github.com/user-attachments/assets/de66299f-e539-446c-95d1-139f687740ac" />
 
 
