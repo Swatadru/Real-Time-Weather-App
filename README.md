@@ -36,7 +36,7 @@ with your actual API key.
 You can view the live version of this project here:
 👉 https://swatadru.github.io/Real-Time-Weather-App/
 
-📸 Screenshots
+## 📸 Screenshots
 <img width="951" height="936" alt="Screenshot 2025-07-27 211316" src="https://github.com/user-attachments/assets/4dc0c592-03e4-4285-9501-a82712a8def7" />
 
 
