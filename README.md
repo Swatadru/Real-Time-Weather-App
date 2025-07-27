@@ -32,9 +32,9 @@ with your actual API key.
 
 4. Open index.html in your browser or use a live server.
 
-🌐 Live Demo
+## 🌐 Live Demo
 You can view the live version of this project here:
-👉 https://swatadru.github.io/Real-Time-Weather-App/
+- 👉 https://swatadru.github.io/Real-Time-Weather-App/
 
 ## 📸 Screenshots
 <div style="display: flex; gap: 400px; justify-content: center; flex-wrap: wrap;">
